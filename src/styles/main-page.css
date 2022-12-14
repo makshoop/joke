@@ -1,0 +1,40 @@
+body{
+    background-color: #a3e6fb87;
+}
+
+.main-page {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-title {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    display:flex;
+    margin-top: 200px;
+    font-size: 70px;
+
+}
+
+.main-question {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    display:flex;
+    margin: 75px;
+    font-size: xx-large;
+}
+
+.btn-open{
+    font-family: 'Montserrat Alternates', sans-serif;
+    display:flex;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 20px 45px;
+    border-radius: 10px;
+    background-color: rgb(255, 187, 114);
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-transform: uppercase;
+}
+
+.gachi-gif {
+    height: 200px;
+}
